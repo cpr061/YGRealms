@@ -1,10 +1,16 @@
 # YGRealms
-The official documentary of my New Server YG Realms! **Updates Every Saturday**
+                           The official documentary of my New Server YG Realms! **Updates Every Saturday**
 
 
 ![Letters](https://user-images.githubusercontent.com/78768839/214756264-fdf15acb-5acf-408f-a8e1-e9bc404afd15.png)
 
-**Progress: 35%** **Ip: Not Avaliable**
+                                                  **28th Of January 2023**
+                             Technially, these 2 days at work, I finished the enchanting system of the server. Allowing 
+                             players to spend XP Levels for 400+ Custom enchantments. These next weeks will mostly be
+                             for building spawn, and making more cosmetics, emotes and furniture.
+
+
+**Progress: 49%** **Ip: Not Avaliable**
 
 **INFO:**
 This server is a survival server made by [cpr061CAM](https://www.youtube.com/channel/UCIRwB87RPw18FPxd780O5nw). This server is made for Minecraft 1.18.2+
@@ -37,10 +43,13 @@ https://user-images.githubusercontent.com/78768839/214757499-0b2c5ae0-d0de-4d9c-
 
 https://user-images.githubusercontent.com/78768839/214757553-34e8c326-2a17-4b56-8eed-113360f67d92.mp4
 
+https://user-images.githubusercontent.com/78768839/215274468-4f0c968f-d3cd-4b5a-885e-77cafc4dc155.mp4
+
 **FAQ:**
 
 Q: When will closed beta release?
-A: I don't know yet, Its to early in development.
+A: I don't know yet, But sometime in Feburary Ill see if I am ready for closed
+beta.
 
 **More coming soon!**
 
