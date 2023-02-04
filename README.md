@@ -8,9 +8,13 @@ YGRealms
                              Technially, these 2 days at work, I finished the enchanting system of the server. Allowing 
                              players to spend XP Levels for 400+ Custom enchantments. These next weeks will mostly be
                              for building spawn, and making more cosmetics, emotes and furniture.
+                             
+                             **3rd Of Feburary 2023**
+                             Ok, I didn't do anything during this week, because of all of the other work
+                             I need to do. But I did plan on adding ametyist armor.
 
 
-**Progress: 49%** **Ip: Not Avaliable**
+**Progress: 51%** **Ip: Not Avaliable**
 
 **INFO:**
 This server is a survival server made by [cpr061CAM](https://www.youtube.com/channel/UCIRwB87RPw18FPxd780O5nw). This server is made for Minecraft 1.18.2+
