@@ -12,9 +12,13 @@ YGRealms
                              **3rd Of Feburary 2023**
                              Ok, I didn't do anything during this week, because of all of the other work
                              I need to do. But I did plan on adding ametyist armor.
+                             
+                             **11th of Feburary 2023**
+                             Because of last week, I made lots of progress, I made the model for the cosmetic crate
+                             (Which I can't show this week) And developed the relic system. 
 
 
-**Progress: 51%** **Ip: Not Avaliable**
+**Progress: 58%** **Ip: Not Avaliable**
 
 **INFO:**
 This server is a survival server made by [cpr061CAM](https://www.youtube.com/channel/UCIRwB87RPw18FPxd780O5nw). This server is made for Minecraft 1.18.2+
@@ -36,6 +40,9 @@ Able to enchant your weapons to have magical spells.
 
 -**Emotes**
 Able to show your actions and perform emotes. And hat and holdable cosmetics can be on while performing the emote.
+
+-**Relics**
+Able to upgrade netherite armor to something even stronger.
 
 YG Realms is really far into development. But will soon come in closed beta.
 
