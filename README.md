@@ -15,7 +15,11 @@ YGRealms
                              
                              **11th of Feburary 2023**
                              Because of last week, I made lots of progress, I made the model for the cosmetic crate
-                             (Which I can't show this week) And developed the relic system. 
+                             (Which I can't show this week) And developed the relic system. \
+                             
+                             **18th Of Feburary 2023**
+                             Due to the server for some reason bugging out this week, I couldn't make much progress this
+                             week. But to make at least some progress, I made some more cosmetics, furniture and emotes.
 
 
 **Progress: 58%** **Ip: Not Avaliable**
